@@ -21,5 +21,5 @@
       ■ Especificidade
       ■ Box Model
         ◆ Tudo são caixas
-        ◆ caixas possuem determinads Propriedades
+        ◆ Caixas possuem determinads propriedades
       ■ Display block vs inline
