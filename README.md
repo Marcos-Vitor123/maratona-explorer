@@ -126,3 +126,5 @@
       - document.write("texto")<br>
       - Manipular elementos<br>
       - document.documentElement.style.background = "black"<br>
+
+Link do projeto acima: https://marcos-vitor123.github.io/maratona-explorer/
