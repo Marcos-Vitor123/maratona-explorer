@@ -40,6 +40,7 @@ function fazerPergunta() {
   buttonPerguntar.setAttribute("disabled", true)
 
   const pergunta = "<div>" + inputPergunta.value + "</div>"
+  inputPergunta.value = ""
 
   // Gerar número aleatório
   const totalRespostas = respostas.length
