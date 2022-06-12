@@ -27,10 +27,16 @@ const respostas = [
 function fazerPergunta() {
 
   if(inputPergunta.value == "") {
-    alert("Digite sua pergunta")
-    return
+    elementoResposta.style.color = "yellow"
+    elementoResposta.innerHTML = "Digite sua pergunta!"
+    setTimeout(function(){
+      elementoResposta.style.opacity = 0
+    }, 3000)
+    return elementoResposta.style.opacity = 1
+    
   }
 
+  elementoResposta.style.color = "white"
   buttonPerguntar.setAttribute("disabled", true)
 
   const pergunta = "<div>" + inputPergunta.value + "</div>"
@@ -41,10 +47,10 @@ function fazerPergunta() {
 
   elementoResposta.innerHTML = pergunta + respostas[numeroAleatorio]
 
-  elementoResposta.style.opacity = 1;
+  elementoResposta.style.opacity = 1
   // Sumir a resposta depois de 3 segundos
   setTimeout(function() {
-    elementoResposta.style.opacity = 0;
+    elementoResposta.style.opacity = 0
     buttonPerguntar.removeAttribute("disabled")
   }, 3000)
 }
