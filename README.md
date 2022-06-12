@@ -84,15 +84,15 @@
           filhos: ["k", "E", "J", "L", "G"]
         }
         ```
-   ◆ Função
-    ● Criação
+    ◆ Função
+     ● Criação
       ► Exemplo:
         ```
           function nomeDela() {
             código aqui
           }
         ```
-    ● Execução
+     ● Execução
       ► Exemplo:
         ```
           function nomeDela() {
@@ -101,7 +101,7 @@
 
           nomeDela() 
         ```
-    ● Parâmetros
+     ● Parâmetros
       ► Exemplo:
         ```
           function nomeDela(a, b) {
@@ -110,7 +110,7 @@
 
           nomeDela(1, 1)
         ```
-    ● retorno
+     ● retorno
       ► Exemplo:
           ```
             function nomeDela(a, b) {
@@ -120,15 +120,15 @@
             const multiplica = soma(2, 2) * 4
           ```
 
-  ◆ Extensões da linguagem (ex: Math, date ...)
-    ● Math.random() // Gera número aleatórios entre 0 e 1
-    ● Math.floor(1.2) // Arredonda o número fracionário para baixo - ex: 1.2 = 1
-    ● Math.ceil(1.2) // Arredonda o número fracionário para cima - ex: 1.2 = 2
+    ◆ Extensões da linguagem (ex: Math, date ...)
+     ● Math.random() // Gera número aleatórios entre 0 e 1
+     ● Math.floor(1.2) // Arredonda o número fracionário para baixo - ex: 1.2 = 1
+     ● Math.ceil(1.2) // Arredonda o número fracionário para cima - ex: 1.2 = 2
 
-  ◆ DOM - Document Object Model
-    ● window
-    ● window.alert("alerta")
-    ● document
-    ● document.write("texto")
-    ● Manipular elementos
-    ● document.documentElement.style.background = "black"
+    ◆ DOM - Document Object Model
+     ● window
+     ● window.alert("alerta")
+     ● document
+     ● document.write("texto")
+     ● Manipular elementos
+     ● document.documentElement.style.background = "black"
