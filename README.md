@@ -78,7 +78,7 @@
           nome: "Mayk",
           idade: 38,
           filhos: ["k", "E", "J", "L", "G"]
-        }<br>
+        }
         ```
     - Função<br>
       - Criação<br>
@@ -94,23 +94,26 @@
           function nomeDela() {
             código aqui
           }
-          nomeDela()<br>
+
+          nomeDela()
         ```
       - Parâmetros<br>
         - Exemplo:<br>
         ```
           function nomeDela(a, b) {
             console.log(a + b)
-          }<br>
-          nomeDela(1, 1)<br>
+          }
+
+          nomeDela(1, 1)
         ```
       - retorno<br>
         - Exemplo:<br>
         ```
           function nomeDela(a, b) {
             return a + b
-          }<br>
-          const multiplica = soma(2, 2) * 4<br>
+          }
+
+          const multiplica = soma(2, 2) * 4
         ```
     - Extensões da linguagem (ex: Math, date ...)<br>
       - Math.random() // Gera número aleatórios entre 0 e 1<br>
