@@ -1,134 +1,126 @@
 # ▶ HTML
-   ■ HyperText Markup Language
-      ◆ Hiper Texto?
-      ◆ Marcação
-        ● Tags
-        ● Atributos
-      ◆ Linguagem
-        ● Maneira de escrever
-
+   ■ HyperText Markup Language<br>
+      ◆ Hiper Texto?<br>
+      ◆ Marcação<br>
+        ● Tags<br>
+        ● Atributos<br>
+      ◆ Linguagem<br>
+        ● Maneira de escrever<br>
 # ▶ CSS  
-   ■ Apresentação visual para o cliente
-   ■ Estilos no HTML
-   ■ Cascading Style Sheets => Folha de Estilo em Cascata
-
+   ■ Apresentação visual para o cliente<br>
+   ■ Estilos no HTML<br>
+   ■ Cascading Style Sheets => Folha de Estilo em Cascata<br>
 ##▶ Declaração
-   ■ Seletor
-   ■ Propriedade e Valor
-
-  ▶ Conceitos
-   ■ Cascata
-   ■ Especificidade
-   ■ Box Model
-    ◆ Tudo são caixas
-    ◆ Caixas possuem determinads propriedades
-   ■ Display block vs inline
-      
+   ■ Seletor<br>
+   ■ Propriedade e Valor<br>
+  ▶ Conceitos<br>
+   ■ Cascata<br>
+   ■ Especificidade<br>
+   ■ Box Model<br>
+    ◆ Tudo são caixas<br>
+    ◆ Caixas possuem determinads propriedades<br>
+   ■ Display block vs inline<br>
+     
 # ▶ JavaScript 
-   ■ Sintaxe:
-    ◆ Maneira correta de escrever
-   ■ Alguns princípios dessa Linguagem:
-    ◆ Variáveis:
-     ● Variáveis do tipo `let` pode ser aleradas em algum outro momento
-     ● Variáveis do tipo `const` não sofrem alterações
-    ◆ Tipos de dados
-     ● String:
-      ► Representada por aspas "duplas" ou 'simples'
-     ● Number
-      ► Integer (+ -)
-      ► Float (+ -)
-     ● Boolean
-      ► true ou false
-     ● Undefined
-    ◆ Operadores
-     ● Atribuido (ex: =) forma de ler pronúncia é: recebe
-     ● Aritiméticos: fazem cálculos
-      ► soma: +
-      ► subtrair: -
-      ► multiplicar: *
-      ► dividir: /
-     ● Concatenação de String
-      ► Concatena usando um operador: +
-     ● Comparação
-      ► Transforma a expressão em true ou false
-    ◆ Condicional (if/else)
-     ● Cria uma condição que envolve verdadeiro ou falso
-      ► Condição if = true: Se der verdadeiro => É executado o bloco de código a seguir
-      ► Condição if = false: Se der falso => Não é executado o bloco de código a seguir
-      ► Condição else = true: Se der false na comparação dos dados envolvido na condição if anterior => Executa o código a seguir
-      ► Condição else = false: Se der true na comparação dos dados envolvido na condição if anterior => Executa o código a seguir
-    ◆ Estrutura de dados
-     ● Array
-      ► Representado por abre e fecha colchetes:
-       * Contém dados separados por vírgula
-       * Cada dado é identificado por um índice que inicia do número 0 em diante
-       * Exemplo:
-                         índices:  0     1   2  3
-         `const temperaturas = [23.3, 32.2, 1, 5]`
-       * Recebe dados como:
-        - Números
-        - Strings
-        - Arrays
-        - Funções
-        - Objetos
-        - E qualquer outro tipo de dados
-     ● Vetor
-     ● Lista
-     ● Objetos
-      ► Variável `const` que recebe várias propriedades
-      ► Exemplo:
+   ■ Sintaxe:<br>
+    ◆ Maneira correta de escrever<br>
+   ■ Alguns princípios dessa Linguagem:<br>
+    ◆ Variáveis:<br>
+     ● Variáveis do tipo `let` pode ser aleradas em algum outro momento<br>
+     ● Variáveis do tipo `const` não sofrem alterações<br>
+    ◆ Tipos de dados<br>
+     ● String:<br>
+      ► Representada por aspas "duplas" ou 'simples'<br>
+     ● Number<br>
+      ► Integer (+ -)<br>
+      ► Float (+ -)<br>
+     ● Boolean<br>
+      ► true ou false<br>
+     ● Undefined<br>
+    ◆ Operadores<br>
+     ● Atribuido (ex: =) forma de ler pronúncia é: receb<br>
+     ● Aritiméticos: fazem cálculos<br>
+      ► soma: +<br>
+      ► subtrair: -<br>
+      ► multiplicar: *<br>
+      ► dividir: /<br>
+     ● Concatenação de String<br>
+      ► Concatena usando um operador: +<br>
+     ● Comparação<br>
+      ► Transforma a expressão em true ou false<br>
+    ◆ Condicional (if/else)<br>
+     ● Cria uma condição que envolve verdadeiro ou falso<br>
+      ► Condição if = true: Se der verdadeiro => É executado o bloco de código a seguir<br>
+      ► Condição if = false: Se der falso => Não é executado o bloco de código a seguir<br>
+      ► Condição else = true: Se der false na comparação dos dados envolvido na condição if anterior => Executa o código a seguir<br>
+      ► Condição else = false: Se der true na comparação dos dados envolvido na condição if anterior => Executa o código a seguir<br>
+    ◆ Estrutura de dados<br>
+     ● Array<br>
+      ► Representado por abre e fecha colchetes:<br>
+       * Contém dados separados por vírgula<br>
+       * Cada dado é identificado por um índice que inicia do número 0 em diante<br>
+       * Exemplo:<br>
+                         índices:  0     1   2  3<br>
+         `const temperaturas = [23.3, 32.2, 1, 5]`<br>
+       * Recebe dados como:<br>
+        - Números<br>
+        - Strings<br>
+        - Arrays<br>
+        - Funções<br>
+        - Objetos<br>
+        - E qualquer outro tipo de dados<br>
+     ● Vetor<br>
+     ● Lista<br>
+     ● Objetos<br>
+      ► Variável `const` que recebe várias propriedades<br>
+      ► Exemplo:<br>
         ```
-        const pessoa {
-          nome: "Mayk",
-          idade: 38,
-          filhos: ["k", "E", "J", "L", "G"]
-        }
+        const pessoa {<br>
+          nome: "Mayk",<br>
+          idade: 38,<br>
+          filhos: ["k", "E", "J", "L", "G"]<br>
+        }<br>
         ```
-    ◆ Função
-     ● Criação
-      ► Exemplo:
+    ◆ Função<br>
+     ● Criação<br>
+      ► Exemplo:<br>
         ```
-          function nomeDela() {
-            código aqui
-          }
+          function nomeDela() {<br>
+            código aqu<br>
+          }<br>
         ```
-     ● Execução
-      ► Exemplo:
+     ● Execução<br>
+      ► Exemplo:<br>
         ```
-          function nomeDela() {
-            código aqui
-          }
-
-          nomeDela() 
+          function nomeDela() {<br>
+            código aqui<br>
+          }<br>
+          nomeDela()<br>
         ```
-     ● Parâmetros
-      ► Exemplo:
+     ● Parâmetros<br>
+      ► Exemplo:<br>
         ```
-          function nomeDela(a, b) {
-            console.log(a + b)
-          }
-
-          nomeDela(1, 1)
+          function nomeDela(a, b) {<br>
+            console.log(a + b)<br>
+          }<br>
+          nomeDela(1, 1<br>
         ```
-     ● retorno
-      ► Exemplo:
+     ● retorno<br>
+      ► Exemplo:<br>
           ```
-            function nomeDela(a, b) {
-              return a + b
-            }
-
-            const multiplica = soma(2, 2) * 4
+            function nomeDela(a, b) {<br>
+              return a + b<br>
+            }<br>
+            const multiplica = soma(2, 2) * 4<br>
           ```
-
-    ◆ Extensões da linguagem (ex: Math, date ...)
-     ● Math.random() // Gera número aleatórios entre 0 e 1
-     ● Math.floor(1.2) // Arredonda o número fracionário para baixo - ex: 1.2 = 1
-     ● Math.ceil(1.2) // Arredonda o número fracionário para cima - ex: 1.2 = 2
-
-    ◆ DOM - Document Object Model
-     ● window
-     ● window.alert("alerta")
-     ● document
-     ● document.write("texto")
-     ● Manipular elementos
-     ● document.documentElement.style.background = "black"
+    ◆ Extensões da linguagem (ex: Math, date ...)<br>
+     ● Math.random() // Gera número aleatórios entre 0 e 1<br>
+     ● Math.floor(1.2) // Arredonda o número fracionário para baixo - ex: 1.2 = 1<br>
+     ● Math.ceil(1.2) // Arredonda o número fracionário para cima - ex: 1.2 = <br>
+    ◆ DOM - Document Object Model<br>
+     ● window<br>
+     ● window.alert("alerta")<br>
+     ● document<br>
+     ● document.write("texto")<br>
+     ● Manipular elementos<br>
+     ● document.documentElement.style.background = "black"<br>
