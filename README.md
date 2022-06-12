@@ -74,41 +74,41 @@
         - Variável `const` que recebe várias propriedades<br>
         - Exemplo:<br>
         ```
-        const pessoa {<br>
-          nome: "Mayk",<br>
-          idade: 38,<br>
-          filhos: ["k", "E", "J", "L", "G"]<br>
+        const pessoa {
+          nome: "Mayk",
+          idade: 38,
+          filhos: ["k", "E", "J", "L", "G"]
         }<br>
         ```
     - Função<br>
       - Criação<br>
         - Exemplo:<br>
         ```
-          function nomeDela() {<br>
-            código aqu<br>
-          }<br>
+          function nomeDela() {
+            código aqui
+          }
         ```
       - Execução<br>
         - Exemplo:<br>
         ```
-          function nomeDela() {<br>
-            código aqui<br>
-          }<br>
+          function nomeDela() {
+            código aqui
+          }
           nomeDela()<br>
         ```
       - Parâmetros<br>
         - Exemplo:<br>
         ```
-          function nomeDela(a, b) {<br>
-            console.log(a + b)<br>
+          function nomeDela(a, b) {
+            console.log(a + b)
           }<br>
-          nomeDela(1, 1<br>
+          nomeDela(1, 1)<br>
         ```
       - retorno<br>
         - Exemplo:<br>
         ```
-          function nomeDela(a, b) {<br>
-            return a + b<br>
+          function nomeDela(a, b) {
+            return a + b
           }<br>
           const multiplica = soma(2, 2) * 4<br>
         ```
