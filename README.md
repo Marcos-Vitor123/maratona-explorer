@@ -1,3 +1,16 @@
+# Projeto GoogleRocketseat
+
+## Esse projeto é inspirado no evento Maratona Explorer da Rocketseat
+
+E trata-se de uma aplicação onde o usuário através da barra de pesquisa da mesma, usufrui da ferramenta de pesquisa oficial da Google<br>
+Fique à vontade para expirimentá-la!
+
+## Meu parecer do evento
+
+Através dessa maratona, adquiri muitos conhecimentos no qual eu não tinha. Aprendi novos conceitos de HTML, CSS e JavaScript embora eu tenha um conhecimento melhor em HTML e CSS e estou me desenvolvendo dia após dia de estudos na plataforma Rocketseat a linguagem de programação JavaScript. Agradeço a todos da Rocketseat, por me fazer subir um nível a cada dia que passa. Pois meu objetivo é me tornar um Dev Front-End e posteriormente trabalhar com o Back-end também.
+
+## Anotações importantes da aula:
+
 # HTML
   - HyperText Markup Language<br>
     - Hiper Texto?<br>

@@ -27,3 +27,7 @@ function fazerPesquisaGoogle() {
     buttonPesquisar.removeAttribute("disabled")
   }, 3000)
 }
+
+function siteRocketseat() {
+  window.location.href = "https://www.rocketseat.com.br/"
+}

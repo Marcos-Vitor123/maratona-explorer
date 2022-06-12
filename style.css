@@ -58,7 +58,7 @@ input:hover {
   filter: brightness(1.2);
 }
 
-button {
+#buttonPesquisar, #rocketseat {
   background-color: rgb(90, 0, 0);
   color: white;
   transition: filter .2s;
@@ -67,7 +67,12 @@ button {
 }
 
 /* pseudo-class :hover */
-button:hover {
+#buttonPesquisar:hover {
+  filter: brightness(1.2);
+  cursor: pointer;
+}
+
+#rocketseat:hover {
   filter: brightness(1.2);
   cursor: pointer;
 }
