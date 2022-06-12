@@ -24,6 +24,8 @@ div #container {
 img {
   width: 350px;
   height: 125px;
+  margin-top: 75px;
+  margin-bottom: -20px;
 }
 
 h1 {
@@ -57,7 +59,7 @@ input:hover {
 }
 
 button {
-  background-color: blueviolet;
+  background-color: rgb(90, 0, 0);
   color: white;
   transition: filter .2s;
   width: 200px;
