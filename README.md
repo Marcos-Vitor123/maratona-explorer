@@ -10,7 +10,7 @@
   - Apresentação visual para o cliente<br>
   - Estilos no HTML<br>
   - Cascading Style Sheets => Folha de Estilo em Cascata<br>
-# - #Declaração
+    - Declaração
       - Seletor<br>
       - Propriedade e Valor<br>
     - Conceitos<br>
