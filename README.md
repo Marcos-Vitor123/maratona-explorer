@@ -1,16 +1,16 @@
-# ▶ HTML
-   ■ HyperText Markup Language<br>
-      ◆ Hiper Texto?<br>
-      ◆ Marcação<br>
-        ● Tags<br>
-        ● Atributos<br>
-      ◆ Linguagem<br>
-        ● Maneira de escrever<br>
+# HTML
+   - HyperText Markup Language<br>
+      - Hiper Texto?<br>
+      - Marcação<br>
+        - Tags<br>
+        - Atributos<br>
+      - Linguagem<br>
+        - Maneira de escrever<br>
 # ▶ CSS  
    ■ Apresentação visual para o cliente<br>
    ■ Estilos no HTML<br>
    ■ Cascading Style Sheets => Folha de Estilo em Cascata<br>
-##▶ Declaração
+## ▶ Declaração
    ■ Seletor<br>
    ■ Propriedade e Valor<br>
   ▶ Conceitos<br>
