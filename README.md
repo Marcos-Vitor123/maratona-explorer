@@ -19,8 +19,7 @@
     - Box Model<br>
       - Tudo são caixas<br>
       - Caixas possuem determinads propriedades<br>
-    - Display block vs inline<br>
-     
+    - Display block vs inline<br>    
 # JavaScript 
   - Sintaxe:<br>
     - Maneira correta de escrever<br>
@@ -107,12 +106,12 @@
         ```
       - retorno<br>
         - Exemplo:<br>
-          ```
-            function nomeDela(a, b) {<br>
-              return a + b<br>
-            }<br>
-            const multiplica = soma(2, 2) * 4<br>
-          ```
+        ```
+          function nomeDela(a, b) {<br>
+            return a + b<br>
+          }<br>
+          const multiplica = soma(2, 2) * 4<br>
+        ```
     - Extensões da linguagem (ex: Math, date ...)<br>
       - Math.random() // Gera número aleatórios entre 0 e 1<br>
       - Math.floor(1.2) // Arredonda o número fracionário para baixo - ex: 1.2 = 1<br>
