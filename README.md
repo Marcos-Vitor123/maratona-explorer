@@ -2,8 +2,7 @@
 
 ## Esse projeto é inspirado no evento Maratona Explorer da Rocketseat
 
-E trata-se de uma aplicação onde o usuário através da barra de pesquisa da mesma, usufrui da ferramenta de pesquisa oficial da Google<br>
-Fique à vontade para expirimentá-la!
+E trata-se de uma aplicação onde o usuário através da barra de pesquisa da mesma, usufrui da ferramenta de pesquisa oficial da Google. Fique à vontade para expirimentá-la!
 
 ## Meu parecer do evento
 
