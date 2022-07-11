@@ -1,0 +1,61 @@
+// Configurações da aula do NLW da Rocketseat
+
+{
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "workbench.colorTheme": "Omni",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "workbench.editor.tabSizing": "shrink",
+  "explorer.compactFolders": false,
+  "files.autoSave": "afterDelay",
+
+  // formatter
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[HTML]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[CSS]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tokenColorCustomizations": {
+    "comments": "#57924b"
+  },
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  "[css]": {
+    "editor.suggest.insertMode": "replace"
+  },
+  "git.suggestSmartCommit": false,
+  "editor.guides.bracketPairs": "active",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "emmet.syntaxProfiles": {},
+  "emmet.preferences": {},
+  "settingsSync.ignoredExtensions": [
+  
+  ]
+}

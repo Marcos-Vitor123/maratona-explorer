@@ -1,11 +1,13 @@
 const elementoRespostaGoogle = document.querySelector("#respostaGoogle")
+const elementoButtonPesquisar = document.querySelector("#buttonPesquisar")
+const elementoButtonRocketseat = document.querySelector("#rocketseat")
+const elementoBackground = document.querySelector("body")
 const inputPesquisaGoogle = document.querySelector("#inputPesquisaGoogle")
 const buttonPesquisar = document.querySelector("#buttonPesquisar")
 inputPesquisaGoogle.value = ""
 
-function fazerPesquisaGoogle() {
-  elementoRespostaGoogle.style.opacity = 0
 
+function fazerPesquisaGoogle() {
   if(inputPesquisaGoogle.value == "") {
     const pesquisar = "<div>" + inputPesquisaGoogle.value + "</div>"
     elementoRespostaGoogle.innerHTML = pesquisar
@@ -15,6 +17,7 @@ function fazerPesquisaGoogle() {
       elementoRespostaGoogle.style.opacity = 0
     }, 3000)
     return elementoRespostaGoogle.style.opacity = 1
+
   }
 
   inputPesquisaGoogle.setAttribute("disabled", true)
